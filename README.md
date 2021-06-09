@@ -1,2 +1,8 @@
 # venom
-study project
+study project Eugen Burkenia
+
+used:
+- HTML
+- CSS
+- Javascript
+- Normalize
